@@ -1,8 +1,11 @@
+/*Importações Angular Material*/
+import {MatButtonModule} from '@angular/material/button'
+
+
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-/*Importações Angular Material*/
-import {MatButtonModule} from '@angular/material/button';
+
 import {MatCardModule} from '@angular/material/card';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatGridListModule} from '@angular/material/grid-list';
